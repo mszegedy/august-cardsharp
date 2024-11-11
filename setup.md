@@ -23,7 +23,7 @@ their quotidian decks. They shuffle their decks face down, and are no longer
 allowed to inspect them.
 
 ### Forming the horoscope decks
-The dealer removes the top 43×N cards of the shuffled horoscope pile face up,
+The dealer removes the top 43×N cards of the shuffled horoscope pile face down,
 where N is the number of players. This collection of cards is then passed around
 counterclockwise between the players, starting with the dealer's right hand
 neighbor. Each player inspects the cards in the collection, selects a specific
@@ -58,8 +58,8 @@ The ideal pile is placed next to the trick area, where it is easily accessible
 by the dealer.
 
 ## Bidding
-(todo: reveal a horoscope card from the top of your deck, cut the deck of the
-player to your right, place card in middle)
+(todo: reveal a horoscope card from the top of your h-deck, cut the h-deck of
+the player to your right, place card in middle)
 
 ## Beginning a round
 (todo: 13 tricks, start w/ contract winner, shuffle, draw 7 and set aside 6 face
