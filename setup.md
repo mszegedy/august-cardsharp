@@ -63,4 +63,4 @@ the player to your right, place card in middle)
 
 ## Beginning a round
 (todo: 13 tricks, start w/ contract winner, shuffle, draw 7 and set aside 6 face
-down)
+down, dividing deck into "top deck" and "bottom deck")
