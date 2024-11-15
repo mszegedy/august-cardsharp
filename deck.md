@@ -79,20 +79,20 @@ contain and the name of their primary star. These constellations and stars are:
 
 (todo: add star quantities)
 
-- Andromeda, Alpheratz
-- Aquarius, Sadalsuud
-- Aquila, Altair
-- Ara, Almijmarah
-- Aries, Hamal
-- Auriga, Capella
-- Boötes, Arcturus
-- Cancer, Altarf
-- Canes Venatici, Cor Caroli
-- Canis Major, Sirius
-- Canis Minor, Procyon
-- Capricorn, Algedi
-- Carina, Canopus
-- Cassiopeia, Schedar
+- Andromeda, Alpheratz, 16
+- Aquarius, Sadalsuud, 22
+- Aquila, Altair, 10
+- Ara, Almijmarah, 8
+- Aries, Hamal, 9
+- Auriga, Capella, 8
+- Boötes, Arcturus, 15
+- Cancer, Altarf, 0
+- Canes Venatici, Cor Caroli, 2
+- Canis Major, Sirius, 8
+- Canis Minor, Procyon, 2
+- Capricorn, Algedi, 23
+- Carina, Canopus, 9
+- Cassiopeia, Schedar, 5
 - Centaurus, Toliman
 - Cepheus, Alderamin
 - Cetus, Diphda
